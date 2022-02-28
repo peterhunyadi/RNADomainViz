@@ -2,13 +2,13 @@
 Software Development Course Project 2021W
 
 Domain-level nucleic acid structures can be visualized by many tools already or by hand. This tool can render 2D representations of  nucleic acid molecules from kernel string input with extra layers of precision.
-This extra inputs are :
-forcing angles between domains with in-line additions
-specifying domain length from outside of the string
+This extra inputs are :  
+forcing angles between domains with in-line additions  
+specifying domain length from outside of the string  
 
-You can also choose a color scheme from 4 pre-added colorblind friendly palettes (“IBM”, “Wong”, “Magma”, “Plasma”.
+You can also choose a color scheme from 4 pre-added colorblind friendly palettes (“IBM”, “Wong”, “Magma”, “Plasma”).
 
-##Packages
+## Packages
 The following packages are called: numpy, networkx, shapely, drawSvg
 
 ## How to use:
